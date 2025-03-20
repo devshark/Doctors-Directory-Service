@@ -1,0 +1,1122 @@
+[
+{
+    "model": "doctors_api.category",
+    "pk": 1,
+    "fields": {
+        "name": "General Practitioner"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 2,
+    "fields": {
+        "name": "Allergist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 3,
+    "fields": {
+        "name": "Anesthesiologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 4,
+    "fields": {
+        "name": "Cardiologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 5,
+    "fields": {
+        "name": "Dermatologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 6,
+    "fields": {
+        "name": "Emergency Medicine Physician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 7,
+    "fields": {
+        "name": "Endocrinologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 8,
+    "fields": {
+        "name": "Family Medicine Physician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 9,
+    "fields": {
+        "name": "Gastroenterologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 10,
+    "fields": {
+        "name": "Geriatrician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 11,
+    "fields": {
+        "name": "Gynecologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 12,
+    "fields": {
+        "name": "Hematologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 13,
+    "fields": {
+        "name": "Infectious Disease Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 14,
+    "fields": {
+        "name": "Internal Medicine Physician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 15,
+    "fields": {
+        "name": "Neurologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 16,
+    "fields": {
+        "name": "Neurosurgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 17,
+    "fields": {
+        "name": "Obstetrician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 18,
+    "fields": {
+        "name": "Oncologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 19,
+    "fields": {
+        "name": "Ophthalmologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 20,
+    "fields": {
+        "name": "Orthopedic Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 21,
+    "fields": {
+        "name": "Otolaryngologist (ENT)"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 22,
+    "fields": {
+        "name": "Pediatrician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 23,
+    "fields": {
+        "name": "Plastic Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 24,
+    "fields": {
+        "name": "Psychiatrist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 25,
+    "fields": {
+        "name": "Pulmonologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 26,
+    "fields": {
+        "name": "Radiologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 27,
+    "fields": {
+        "name": "Rheumatologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 28,
+    "fields": {
+        "name": "Sleep Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 29,
+    "fields": {
+        "name": "Sports Medicine Physician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 30,
+    "fields": {
+        "name": "Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 31,
+    "fields": {
+        "name": "Urologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 32,
+    "fields": {
+        "name": "Vascular Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 33,
+    "fields": {
+        "name": "Addiction Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 34,
+    "fields": {
+        "name": "Adult Congenital Heart Disease Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 35,
+    "fields": {
+        "name": "Aerospace Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 36,
+    "fields": {
+        "name": "Bariatric Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 37,
+    "fields": {
+        "name": "Bone Marrow Transplant Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 38,
+    "fields": {
+        "name": "Cardiothoracic Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 39,
+    "fields": {
+        "name": "Child and Adolescent Psychiatrist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 40,
+    "fields": {
+        "name": "Clinical Geneticist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 41,
+    "fields": {
+        "name": "Colon and Rectal Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 42,
+    "fields": {
+        "name": "Critical Care Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 43,
+    "fields": {
+        "name": "Dermatopathologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 44,
+    "fields": {
+        "name": "Developmental-Behavioral Pediatrician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 45,
+    "fields": {
+        "name": "Endovascular Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 46,
+    "fields": {
+        "name": "Epileptologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 47,
+    "fields": {
+        "name": "Family Planning Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 48,
+    "fields": {
+        "name": "Gastrointestinal Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 49,
+    "fields": {
+        "name": "Genitourinary Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 50,
+    "fields": {
+        "name": "Geriatric Psychiatrist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 51,
+    "fields": {
+        "name": "Gynecologic Oncologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 52,
+    "fields": {
+        "name": "Hepatologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 53,
+    "fields": {
+        "name": "Hyperbaric Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 54,
+    "fields": {
+        "name": "Immunologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 55,
+    "fields": {
+        "name": "Interventional Cardiologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 56,
+    "fields": {
+        "name": "Interventional Radiologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 57,
+    "fields": {
+        "name": "Medical Geneticist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 58,
+    "fields": {
+        "name": "Medical Oncologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 59,
+    "fields": {
+        "name": "Neonatologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 60,
+    "fields": {
+        "name": "Nephrologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 61,
+    "fields": {
+        "name": "Neurodevelopmental Disabilities Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 62,
+    "fields": {
+        "name": "Neurointensivist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 63,
+    "fields": {
+        "name": "Obesity Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 64,
+    "fields": {
+        "name": "Occupational Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 65,
+    "fields": {
+        "name": "Ocularist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 66,
+    "fields": {
+        "name": "Optometrist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 67,
+    "fields": {
+        "name": "Orthopedic Oncologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 68,
+    "fields": {
+        "name": "Orthopedic Trauma Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 69,
+    "fields": {
+        "name": "Pain Management Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 70,
+    "fields": {
+        "name": "Palliative Care Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 71,
+    "fields": {
+        "name": "Pathologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 72,
+    "fields": {
+        "name": "Pediatric Cardiologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 73,
+    "fields": {
+        "name": "Pediatric Endocrinologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 74,
+    "fields": {
+        "name": "Pediatric Gastroenterologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 75,
+    "fields": {
+        "name": "Pediatric Hematologist-Oncologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 76,
+    "fields": {
+        "name": "Pediatric Infectious Disease Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 77,
+    "fields": {
+        "name": "Pediatric Nephrologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 78,
+    "fields": {
+        "name": "Pediatric Pulmonologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 79,
+    "fields": {
+        "name": "Pediatric Rheumatologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 80,
+    "fields": {
+        "name": "Phlebologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 81,
+    "fields": {
+        "name": "Physical Medicine and Rehabilitation Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 82,
+    "fields": {
+        "name": "Plastic and Reconstructive Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 83,
+    "fields": {
+        "name": "Preventive Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 84,
+    "fields": {
+        "name": "Proctologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 85,
+    "fields": {
+        "name": "Pulmonary Critical Care Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 86,
+    "fields": {
+        "name": "Radiation Oncologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 87,
+    "fields": {
+        "name": "Reproductive Endocrinologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 88,
+    "fields": {
+        "name": "Rheumatology Nurse Practitioner"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 89,
+    "fields": {
+        "name": "Sleep Disorders Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 90,
+    "fields": {
+        "name": "Spinal Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 91,
+    "fields": {
+        "name": "Transplant Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 92,
+    "fields": {
+        "name": "Trauma Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 93,
+    "fields": {
+        "name": "Undersea and Hyperbaric Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 94,
+    "fields": {
+        "name": "Vascular Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 95,
+    "fields": {
+        "name": "Veterinary Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 96,
+    "fields": {
+        "name": "Acupuncturist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 97,
+    "fields": {
+        "name": "Chiropractor"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 98,
+    "fields": {
+        "name": "Naturopathic Doctor"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 99,
+    "fields": {
+        "name": "Osteopathic Physician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 100,
+    "fields": {
+        "name": "Physician Assistant"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 101,
+    "fields": {
+        "name": "Psychologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 102,
+    "fields": {
+        "name": "Speech-Language Pathologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 103,
+    "fields": {
+        "name": "Audiologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 104,
+    "fields": {
+        "name": "Nutritionist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 105,
+    "fields": {
+        "name": "Midwife"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 106,
+    "fields": {
+        "name": "Homeopathic Physician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 107,
+    "fields": {
+        "name": "Clinical Psychologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 108,
+    "fields": {
+        "name": "Health Coach"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 109,
+    "fields": {
+        "name": "Mental Health Counselor"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 110,
+    "fields": {
+        "name": "Rehabilitation Physician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 111,
+    "fields": {
+        "name": "Cardiovascular Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 112,
+    "fields": {
+        "name": "Endocrine Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 113,
+    "fields": {
+        "name": "Transplant Nephrologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 114,
+    "fields": {
+        "name": "Transplant Hepatologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 115,
+    "fields": {
+        "name": "Vascular Neurologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 116,
+    "fields": {
+        "name": "Hospitalist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 117,
+    "fields": {
+        "name": "Clinical Research Physician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 118,
+    "fields": {
+        "name": "Telemedicine Physician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 119,
+    "fields": {
+        "name": "Home Health Physician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 120,
+    "fields": {
+        "name": "Wound Care Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 121,
+    "fields": {
+        "name": "Genetic Counselor"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 122,
+    "fields": {
+        "name": "Pharmacologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 123,
+    "fields": {
+        "name": "Clinical Trial Investigator"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 124,
+    "fields": {
+        "name": "Medical Educator"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 125,
+    "fields": {
+        "name": "Public Health Physician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 126,
+    "fields": {
+        "name": "Occupational Health Physician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 127,
+    "fields": {
+        "name": "Industrial Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 128,
+    "fields": {
+        "name": "Lifestyle Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 129,
+    "fields": {
+        "name": "Forensic Pathologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 130,
+    "fields": {
+        "name": "Medical Toxicologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 131,
+    "fields": {
+        "name": "Sports Psychologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 132,
+    "fields": {
+        "name": "Clinical Neurophysiologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 133,
+    "fields": {
+        "name": "Interventional Pain Management Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 134,
+    "fields": {
+        "name": "Integrative Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 135,
+    "fields": {
+        "name": "Lipidologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 136,
+    "fields": {
+        "name": "Neuropsychologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 137,
+    "fields": {
+        "name": "Pediatric Allergy and Immunology Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 138,
+    "fields": {
+        "name": "Pediatric Infectious Disease Physician"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 139,
+    "fields": {
+        "name": "Pediatric Pulmonology Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 140,
+    "fields": {
+        "name": "Pediatric Rheumatology Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 141,
+    "fields": {
+        "name": "Pediatric Sports Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 142,
+    "fields": {
+        "name": "Psychiatric Nurse Practitioner"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 143,
+    "fields": {
+        "name": "Psychiatric Rehabilitation Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 144,
+    "fields": {
+        "name": "Radiologist Interventional Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 145,
+    "fields": {
+        "name": "Reproductive Medicine Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 146,
+    "fields": {
+        "name": "Trauma and Emergency Surgery Specialist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 147,
+    "fields": {
+        "name": "Vascular Neurologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 148,
+    "fields": {
+        "name": "Pediatric Orthopedic Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 149,
+    "fields": {
+        "name": "Pediatric Plastic Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 150,
+    "fields": {
+        "name": "Pediatric Surgical Oncologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 151,
+    "fields": {
+        "name": "Pediatric Neurosurgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 152,
+    "fields": {
+        "name": "Pediatric Urologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 153,
+    "fields": {
+        "name": "Pediatric Otolaryngologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 154,
+    "fields": {
+        "name": "Pediatric Anesthesiologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 155,
+    "fields": {
+        "name": "Pediatric Hematologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 156,
+    "fields": {
+        "name": "Pediatric Dermatologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 157,
+    "fields": {
+        "name": "Pediatric Geneticist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 158,
+    "fields": {
+        "name": "Pediatric Cardiothoracic Surgeon"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 159,
+    "fields": {
+        "name": "Pediatric Radiologist"
+    }
+},
+{
+    "model": "doctors_api.category",
+    "pk": 160,
+    "fields": {
+        "name": "Pediatric Emergency Medicine Physician"
+    }
+}
+]

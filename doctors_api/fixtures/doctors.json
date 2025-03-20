@@ -1,0 +1,162 @@
+[
+  {
+    "model": "doctors_api.doctor",
+    "pk": 1,
+    "fields": {
+      "name": "Alice Chan",
+      "address": "123 Queen's Road Central, Hong Kong",
+      "contact_details": "555-0123",
+      "category": 42,
+      "district": 3,
+      "language": "en",
+      "consultation_fee": "3500.00",
+      "is_active": true,
+      "created_at": "2025-03-19T13:37:33.633Z",
+      "updated_at": "2025-03-19T13:37:33.633Z"
+    }
+  },
+  {
+    "model": "doctors_api.doctor",
+    "pk": 2,
+    "fields": {
+      "name": "David Wong",
+      "address": "456 Nathan Road, Kowloon",
+      "contact_details": "555-0456, 555-0789",
+      "category": 87,
+      "district": 12,
+      "language": "en",
+      "consultation_fee": "8500.00",
+      "is_active": false,
+      "created_at": "2025-03-19T13:37:33.634Z",
+      "updated_at": "2025-03-19T13:44:26.821Z"
+    }
+  },
+  {
+    "model": "doctors_api.doctor",
+    "pk": 3,
+    "fields": {
+      "name": "Jessica Li",
+      "address": "789 Canton Road, Tsim Sha Tsui",
+      "contact_details": "555-0912",
+      "category": 25,
+      "district": 11,
+      "language": "en",
+      "consultation_fee": "4500.00",
+      "is_active": true,
+      "created_at": "2025-03-19T13:37:33.634Z",
+      "updated_at": "2025-03-19T13:37:33.634Z"
+    }
+  },
+  {
+    "model": "doctors_api.doctor",
+    "pk": 4,
+    "fields": {
+      "name": "Michael Lee",
+      "address": "321 King's Road, North Point",
+      "contact_details": "555-0345, 555-0678",
+      "category": 98,
+      "district": 2,
+      "language": "en",
+      "consultation_fee": "12000.00",
+      "is_active": true,
+      "created_at": "2025-03-19T13:37:33.635Z",
+      "updated_at": "2025-03-19T13:37:33.635Z"
+    }
+  },
+  {
+    "model": "doctors_api.doctor",
+    "pk": 5,
+    "fields": {
+      "name": "Sophia Ng",
+      "address": "654 Hennessy Road, Wan Chai",
+      "contact_details": "555-0234",
+      "category": 55,
+      "district": 1,
+      "language": "mandarin",
+      "consultation_fee": "5000.00",
+      "is_active": true,
+      "created_at": "2025-03-19T13:37:33.635Z",
+      "updated_at": "2025-03-19T13:37:33.635Z"
+    }
+  },
+  {
+    "model": "doctors_api.doctor",
+    "pk": 6,
+    "fields": {
+      "name": "Eric Cheng",
+      "address": "987 Lantau Road, Lantau Island",
+      "contact_details": "555-0567, 555-0890",
+      "category": 73,
+      "district": 3,
+      "language": "cantonese",
+      "consultation_fee": "2200.00",
+      "is_active": true,
+      "created_at": "2025-03-19T13:37:33.635Z",
+      "updated_at": "2025-03-19T13:37:33.635Z"
+    }
+  },
+  {
+    "model": "doctors_api.doctor",
+    "pk": 7,
+    "fields": {
+      "name": "Emily Yip",
+      "address": "234 Nathan Road, Jordan",
+      "contact_details": "555-0123",
+      "category": 15,
+      "district": 11,
+      "language": "en",
+      "consultation_fee": "3000.00",
+      "is_active": true,
+      "created_at": "2025-03-19T13:37:33.636Z",
+      "updated_at": "2025-03-19T13:37:33.636Z"
+    }
+  },
+  {
+    "model": "doctors_api.doctor",
+    "pk": 8,
+    "fields": {
+      "name": "Kevin Ho",
+      "address": "456 Des Voeux Road Central",
+      "contact_details": "555-0456",
+      "category": 129,
+      "district": 5,
+      "language": "mandarin",
+      "consultation_fee": "15000.00",
+      "is_active": true,
+      "created_at": "2025-03-19T13:37:33.636Z",
+      "updated_at": "2025-03-19T13:37:33.636Z"
+    }
+  },
+  {
+    "model": "doctors_api.doctor",
+    "pk": 9,
+    "fields": {
+      "name": "Anna Cheung",
+      "address": "789 Shatin Pass Road, Sha Tin",
+      "contact_details": "555-0678, 555-0912",
+      "category": 61,
+      "district": 8,
+      "language": "en",
+      "consultation_fee": "4000.00",
+      "is_active": true,
+      "created_at": "2025-03-19T13:37:33.636Z",
+      "updated_at": "2025-03-19T13:37:33.636Z"
+    }
+  },
+  {
+    "model": "doctors_api.doctor",
+    "pk": 10,
+    "fields": {
+      "name": "Brian Tam",
+      "address": "321 Gloucester Road, Causeway Bay",
+      "contact_details": "555-0789",
+      "category": 37,
+      "district": 2,
+      "language": "en",
+      "consultation_fee": "18000.00",
+      "is_active": true,
+      "created_at": "2025-03-19T13:37:33.636Z",
+      "updated_at": "2025-03-19T13:37:33.636Z"
+    }
+  }
+]

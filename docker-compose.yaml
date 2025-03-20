@@ -1,0 +1,24 @@
+services:
+  doctors-api:
+    build: .
+    image: doctors-api:latest
+    platform: linux/amd64
+    container_name: doctors-api
+    volumes:
+      - ./container_data:/app/container_data
+    ports:
+      - "8000:8000"
+    depends_on:
+      - migrations
+    env_file:
+      - .env
+  migrations:
+    build: .
+    image: doctors-api:latest
+    platform: linux/amd64
+    container_name: doctors-api-migrations
+    command: python manage.py migrate
+    volumes:
+      - ./container_data:/app/container_data
+    env_file:
+      - .env

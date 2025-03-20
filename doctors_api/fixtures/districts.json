@@ -1,0 +1,100 @@
+[
+{
+    "model": "doctors_api.district",
+    "pk": 1,
+    "fields": {
+        "name": "Central and Western District"
+    }
+},
+{
+    "model": "doctors_api.district",
+    "pk": 2,
+    "fields": {
+        "name": "Eastern District"
+    }
+},
+{
+    "model": "doctors_api.district",
+    "pk": 3,
+    "fields": {
+        "name": "Islands District"
+    }
+},
+{
+    "model": "doctors_api.district",
+    "pk": 4,
+    "fields": {
+        "name": "Kowloon City District"
+    }
+},
+{
+    "model": "doctors_api.district",
+    "pk": 5,
+    "fields": {
+        "name": "Kwai Tsing District"
+    }
+},
+{
+    "model": "doctors_api.district",
+    "pk": 6,
+    "fields": {
+        "name": "North District"
+    }
+},
+{
+    "model": "doctors_api.district",
+    "pk": 7,
+    "fields": {
+        "name": "Sai Kung District"
+    }
+},
+{
+    "model": "doctors_api.district",
+    "pk": 8,
+    "fields": {
+        "name": "Sha Tin District"
+    }
+},
+{
+    "model": "doctors_api.district",
+    "pk": 9,
+    "fields": {
+        "name": "Sham Shui Po District"
+    }
+},
+{
+    "model": "doctors_api.district",
+    "pk": 10,
+    "fields": {
+        "name": "Southern District"
+    }
+},
+{
+    "model": "doctors_api.district",
+    "pk": 11,
+    "fields": {
+        "name": "Tsuen Wan District"
+    }
+},
+{
+    "model": "doctors_api.district",
+    "pk": 12,
+    "fields": {
+        "name": "Tuen Mun District"
+    }
+},
+{
+    "model": "doctors_api.district",
+    "pk": 13,
+    "fields": {
+        "name": "Yau Tsim Mong District"
+    }
+},
+{
+    "model": "doctors_api.district",
+    "pk": 14,
+    "fields": {
+        "name": "Yuen Long District"
+    }
+}
+]
